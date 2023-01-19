@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "eslint-plugin-testcafe": "^0.2.1",
+    "testcafe": "^2.2.0"
+  }
+}
